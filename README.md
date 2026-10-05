@@ -1,3 +1,20 @@
+# Open Task Station Archive
+
+This repository provides anonymized codes and configurations for five open research tasks:
+
+- Emergent Planning
+- Low-Rank Language-Model Analysis
+- Recurrent Network Dynamics
+- Subliminal Learning
+- Visual Hallucination
+
+The large assets for five research tasks (checkpoints, data, etcs.) are distributed separately and are not stored in this
+Git repository. Download them from:
+
+```text
+https://zenodo.org/records/23140052
+```
+
 # Running the Repository
 
 ## Prerequisites
